@@ -32,7 +32,7 @@ const LandHome = () => {
 
   return (
     <div className="landhome">
-      <h1>Hello to the Joke Hub!</h1>
+      <h1>Welcome to the Joke Hub!</h1>
 
       {loading ? (
         <p>Loading...</p>
